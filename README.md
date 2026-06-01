@@ -6,7 +6,7 @@
 ## Steps
 
 ### 1. Config capabilities
-Add your device/emulator capabilities to src/resources/capabilities/capabilities.properties
+Add your device/emulator capabilities to src/resources/capabilities/android.properties
 
 ### 2. Start Appium Server
 Run - appium --allow-cors 
