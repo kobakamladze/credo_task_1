@@ -1,7 +1,7 @@
 ## Prerequisites
 - Android device or emulator
 - Appium installed
-- Install MyCredo Business application from Google Play manually
+- Install "MyCredo Business" application from Google Play manually
 
 ## Steps
 
